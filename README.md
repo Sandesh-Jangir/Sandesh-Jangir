@@ -15,5 +15,5 @@
 - HTML/CSS
 - Javacript
 - Python
-- Python Flask
+- Flask / Python
 - Figma
