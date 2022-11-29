@@ -17,4 +17,4 @@
 - Javacript
 - Python
 - Flask / Python
-- Figma
+- UI/UX
