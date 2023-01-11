@@ -8,7 +8,6 @@
 - Python Developer
 
 ## 📝 Currently Learning
-- Express JS
 - Next JS
 - C++ ( Intermidiate Level )
 
