@@ -2,7 +2,7 @@
 # Hi, I'm @Sandesh-Jangir! 👋
 
 **I am a 9th Grade Student and also a -**
-- Frontend Web Developer
+- Fullstack Web Developer
 - Software Developer
 - Web Designer
 - Python Developer
