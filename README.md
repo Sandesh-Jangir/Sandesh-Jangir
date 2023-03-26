@@ -1,7 +1,7 @@
 
 # Hi, I'm @Sandesh-Jangir! 👋
 
-**I am a 9th Grade Student and also a -**
+**I am a 10th Grade Student and also a -**
 - Fullstack Web Developer
 - Software Developer
 - Web Designer
