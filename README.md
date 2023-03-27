@@ -9,7 +9,7 @@
 
 ## 📝 Currently Learning
 - Next JS
-- C++ ( Intermidiate Level )
+- C++ DSA
 
 ## 🛠 Skills
 - HTML/CSS
