@@ -40,12 +40,6 @@ Here are some of my favorite projects:
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandesh-Jangir&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
 
 ## 🌱 What's Next?  
 ✅ **Short-Term:** Preparing for **JEE Advanced** while staying updated on tech trends.  
