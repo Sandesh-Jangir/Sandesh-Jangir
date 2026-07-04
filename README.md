@@ -7,7 +7,7 @@
 ---
 
 ## 🛠 About Me  
-I'm a **full-stack developer** skilled in **MERN, Next.js, Python, and C++**, passionate about **building scalable web applications** and exploring the intersection of **Artificial Intelligence (AI) and Quantum Computing**.  
+I'm a **full-stack developer** skilled in **MERN, Next.js, Python, and C++**, passionate about **building scalable web applications** and exploring the intersection of **Artificial Intelligence (AI) and Embedded Systems**.  
 
 ### ✨ **What I Do:**  
 ✔ **Full-Stack Development** – Creating **high-performance** applications with **React, Next.js, and Node.js**  
