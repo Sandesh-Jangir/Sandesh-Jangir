@@ -1,55 +1,58 @@
-<h1 align="center">Hi, I'm Sandesh Jangir! 👋</h1>
-
+<h1 align="center">Hi, I'm Sandesh Jangir 👋</h1>
 <p align="center">
-🚀 Full-Stack MERN Developer | 🧠 AI & Quantum Computing Enthusiast | 👨‍💻 Passionate about Open Source & Tech Innovation
+ECE Undergrad @ MNIT Jaipur · VLSI / FPGA / Verilog · Machine Learning
 </p>
 
 ---
 
-## 🛠 About Me  
-I'm a **full-stack developer** skilled in **MERN, Next.js, Python, and C++**, passionate about **building scalable web applications** and exploring the intersection of **Artificial Intelligence (AI) and Embedded Systems**.  
+## About Me
 
-### ✨ **What I Do:**  
-✔ **Full-Stack Development** – Creating **high-performance** applications with **React, Next.js, and Node.js**  
-✔ **AI-Powered Web Apps** – Learning & experimenting with **AI in web applications**  
-✔ **Quantum Machine Learning (QML)** – Exploring **Quantum Computing & its applications in AI**  
-✔ **Open Source Contributions** – Passionate about collaboration & community-driven development  
+I'm studying Electronics and Communication Engineering at MNIT Jaipur. Right now I'm getting into VLSI, FPGA development, and Verilog HDL, and picking up Machine Learning alongside it. Quantum Machine Learning is still the thing I'm most excited about long-term — I just haven't gotten deep into it yet.
 
-📌 *Currently focused on preparing for **JEE Advanced**, but I’ll be back with more projects soon!*  
+I spent the last two years prepping for JEE Advanced, so this is basically me starting fresh on the technical side. I also have a full-stack background from before (MERN, Next.js, Python, C++), which I still use when I need to build a tool, dashboard, or UI around something.
 
----
+### Currently working on
 
-## 🚀 Projects & Repositories  
-Here are some of my favorite projects:  
-
-| 🔹 **Project** | 🛠 **Tech Stack** | 🔗 **Live Demo / Repo** |
-|--------------|----------------|----------------------|
-| 🏗️ **MERN User Authentication System** | MERN (MongoDB, Express, React, Node.js) | [GitHub Repo](https://github.com/Sandesh-Jangir/Secured-User-Authentication-System) |
-| 📝 **Low-Level Text Editor** | C++, File Handling | [GitHub Repo](https://github.com/Sandesh-Jangir/Coder-Studio) |
-| 🌦️ **Weather Application** | Next.js, OpenWeather API | [GitHub Repo](https://github.com/Sandesh-Jangir/Flask-Weather-App) |
-| ⚛️ **Quantum Computing Playground (Coming Soon)** | Qiskit, Python | *In Progress* |
-
-📌 *More projects available on my [GitHub Repositories](https://github.com/Sandesh-Jangir)!*  
+- Digital design and VLSI basics
+- FPGA projects — learning by implementing, not just reading
+- Verilog HDL
+- Machine learning fundamentals
+- Reading up on QML when I get the time
 
 ---
 
-## 🧠 Interests & Research Areas  
-✔ **Quantum Computing** – Learning Qiskit & exploring **quantum algorithms**  
-✔ **Quantum Machine Learning (QML)** – Understanding how **AI can leverage quantum computing**  
-✔ **Neural Networks & Deep Learning** – Experimenting with AI-driven projects  
+## Projects
+
+Nothing to show yet on the VLSI/FPGA/ML side — I'm still early and building. Will add repos here as they're ready.
+
+### Older full-stack projects
+
+| 🔹 Project | 🛠 Tech Stack | 🔗 Repo |
+|---|---|---|
+| 🏗️ MERN User Authentication System | MongoDB, Express, React, Node.js | [GitHub Repo](https://github.com/Sandesh-Jangir/Secured-User-Authentication-System) |
+| 📝 Low-Level Text Editor | Python, File Handling | [GitHub Repo](https://github.com/Sandesh-Jangir/Coder-Studio) |
+| 🌦️ Weather Application | Next.js, OpenWeather API | [GitHub Repo](https://github.com/Sandesh-Jangir/Flask-Weather-App) |
+
+More on my [GitHub](https://github.com/Sandesh-Jangir).
 
 ---
 
+## What I'm into
 
-## 🌱 What's Next?  
-✅ **Short-Term:** Preparing for **JEE Advanced** while staying updated on tech trends.  
-✅ **After JEE:** Diving deeper into **AI, Quantum Computing, and Open Source Development**.  
+- VLSI and digital/chip design
+- FPGA — actually building things on it, not just theory
+- Verilog HDL
+- Machine learning — models, math, the fundamentals
+- Quantum Machine Learning — where quantum computing meets AI, still on my radar for later
 
-🚀 *Stay tuned for more projects & innovations!*  
+---
+
+## Next up
+
+Coursework and side projects in VLSI/FPGA, a few ML projects I want to build, and eventually circling back to QML once I've got the basics down elsewhere.
 
 ---
 
-### 🔗 **Connect With Me**  
-[🌐 Portfolio](https://sandesh-jangir.github.io/) | [📸 Instagram](https://www.instagram.com/sandesh_jangir.07/)  
+### Find me here
 
----
+[Portfolio](https://sandesh-jangir.github.io/) · [Instagram](https://www.instagram.com/sandesh_jangir.07/)
