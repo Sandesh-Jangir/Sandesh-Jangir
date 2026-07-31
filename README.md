@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sandesh Jangir</h1>
+<h1 align="center">Hi, I'm Sandesh Jangir😎</h1>
 <p align="center">
 ECE Undergrad @ MNIT Jaipur · VLSI / FPGA / Verilog · Machine Learning
 </p>
